@@ -74,7 +74,7 @@ export default function Sidebar({ role }: { role: Role | null }) {
                   <img
                     src="/alenort logo.png"
                     alt="Alenort Logo"
-                    className="h-48 mx-auto object-contain"
+                    className="h-32 mx-auto object-contain"
                   />
                 </Link>
               </div>
@@ -139,7 +139,7 @@ export default function Sidebar({ role }: { role: Role | null }) {
                 <img
                   src="/alenort logo.png"
                   alt="Alenort Logo"
-                  className="h-32 mx-auto object-contain"
+                  className="h-48 mx-auto object-contain"
                 />
               </Link>
             </div>
